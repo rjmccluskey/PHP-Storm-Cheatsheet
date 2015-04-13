@@ -7,7 +7,7 @@ Shortcut | Description
 `Ctrl + Shift + Alt + N` | lookup a symbol
 `Ctrl + B` | goto declaration/definition
 `Ctrl + F12` | list all members of a class
-`Alt + F7` | find all usages
+`Alt + Shift + F7` | find all usages
 `Alt + Enter` | show suggestions
 `Alt + F1` | context menu
 `Shift + F6` | rename refactor
