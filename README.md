@@ -19,8 +19,6 @@ Shortcut | Description
 `Ctrl + Shift + T` | create or find unit test
 `Ctrl + Shift + F10` | dynamic run configuration
 `Ctrl + W` | select whole word
-<<<<<<< HEAD
-=======
 `Ctrl + Shift + A` | get list of actions
 `Shift + F2` | goto function definition
 `Ctrl + Tab (Ctrl + [0-9A-Z])` | show available tools to jump to (then pick one)
@@ -33,4 +31,3 @@ Shortcut | Description
 `F11` | step into function (debug tool)
 
 There is also an action to 'clear all tabs' and to 'clear all unedited tabs' that I use a lot, but it's not defined by default.  I find assigning them to a hotkey definitely saves time in clearing your workspace (I used Ctrl + Shift + Backspace and Ctrl + Alt + Backspace, respectively).
->>>>>>> 10f5b9ac9b9e7f0ff423c51c09d161560e028e66
